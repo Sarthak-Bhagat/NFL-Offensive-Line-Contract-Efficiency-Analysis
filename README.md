@@ -1,5 +1,7 @@
 # NFL-Offensive-Line-Contract-Efficiency-Analysis
 
+An analysis of NFL offensive-line contracts against on-field efficiency.
+
 ## Terms
 
 Mine, and free to use — MIT licensed, so do what you like with it.
